@@ -1,0 +1,41 @@
+
+
+
+  .container {
+    max-width:100%;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  
+  .rowatomic {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 100%;
+    flex: 1;
+  }
+  
+  .nav-column {
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    float: left;
+    background-color: #000;
+  }
+  
+  .green-column {
+    background-color: green;
+    height: 100px;
+  }

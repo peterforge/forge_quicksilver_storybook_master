@@ -1,0 +1,20 @@
+.button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .idle {background-color: #eee; color: #000; }
+  .primary {background-color: #0E65C0; color: #FFF; }
+  .default {background-color: #0E65C0; border: 1px solid #0E65C0; color: #FFF; background: #0E65C0; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);}
+  .hover {background-color: #0E65C0; border: 1px solid #0E65C0; color: #FFF; background: #0E65C0; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);}
+  .disabled {background: #949494; border: 1px solid #949494; color: #FFF;}
+  .press { color: #FFF; background-color: #0E65C0; opacity: 0.7; background: rgba(14, 101, 192, 0.75); border: 1px solid rgba(14, 101, 192, 0.7); box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);}
+  .secondary {background: #fff; border: 1px solid #125cb4; color: #0248A3;} 
+  .success {background-color: #30705A; color: #FFF; } /* Green */
+  .error {background-color: #B6353F; color: #FFF; } /* Red */
