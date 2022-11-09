@@ -1,0 +1,15 @@
+
+  .sidebar {
+    float: left;
+    width: 86px!important;
+    height: auto;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items:left;
+    justify-content: left;
+    font-size: calc(10px + 2vmin);
+    background-color: #fff;
+    color: #0E65C0;
+  }
+  

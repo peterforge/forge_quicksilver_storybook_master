@@ -1,0 +1,12 @@
+.rowatomic{
+    background-color:#000;
+    height: 51px;
+    width: 917px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #0E65C0;
+  }
+  
